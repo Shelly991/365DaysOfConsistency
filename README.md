@@ -4,7 +4,7 @@ This repository would record all my day to day learning and practice in differen
 niches of technology. It would be structured in folders named as Day 1, Day 2, ... Day 365.
 
 If you like this idea of **#365DaysOfConsistency**, Star this repo then
-Go ahead and create a repository of your own and
+Go ahead and create a repository of your own in your github and
 let me know you are in this streak with me too by following the steps given below:
 
 ## Step by Step
